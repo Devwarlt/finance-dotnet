@@ -13,6 +13,7 @@
     <None Remove=".gitignore" />
     <None Remove="favicon.ico" />
     <None Remove="LICENSE" />
+    <None Remove="README.md" />
   </ItemGroup>
 
 </Project>
