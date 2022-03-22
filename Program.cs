@@ -1,4 +1,4 @@
-namespace Finance_.NET
+namespace Finance.NET
 {
     public static class Program
     {
