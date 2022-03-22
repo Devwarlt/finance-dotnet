@@ -9,4 +9,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove=".gitignore" />
+    <None Remove="favicon.ico" />
+    <None Remove="LICENSE" />
+  </ItemGroup>
+
 </Project>
